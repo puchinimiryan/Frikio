@@ -90,9 +90,9 @@ Herramientas y lugares donde encontrar más ejemplos e ideas de como encarar la 
 - Theano: http://www.deeplearning.net/software/theano/
 
 
-## Contacto por cualquier duda
+## Contacto por cualquier duda con la parte práctica
 
-![alt text](images/email.png)
+![alt text](../datasets/images/email.png)
 
 
 
