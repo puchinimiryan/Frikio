@@ -92,7 +92,7 @@ Herramientas y lugares donde encontrar más ejemplos e ideas de como encarar la 
 
 ## Contacto por cualquier duda con la parte práctica
 
-![alt text](../datasets/images/email.png)
+![alt text](../datasets/icons/email.png)
 
 
 
