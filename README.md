@@ -1,6 +1,6 @@
 ![alt text](../datasets/icons/frikio.png)
 
-# Workshop: La Inteligencia Arti
+# Workshop: La Inteligencia Artificial aplicada al mundo real
 
 # Agradecimientos
 En nombre de todos los organizadores les agradecemos enormemente su participación y los envitamos a ponerse en contacto de cara a la organización de futuras meetups y workshops. 
@@ -16,14 +16,15 @@ frikioai<arroba>gmail.com
 # Acceso al notebook utilizado en la sección práctica:
 [“Carpeta notebooks”](https://gitlab.com/sergio08/workshopai_may2019/tree/master/notebooks)
 
-Pasos a seguir para correr el notebook de la parte práctica: 
+# Pasos a seguir para correr el notebook de la parte práctica: 
 
 1) Instalar Python y conda en tu compu:
 
 Quick-guide:
-Install and running with Python
-Suggested alternative: install Conda, create an environment with python and then run the example notebook using jupyter lab.
+Install Conda, create an environment with python and then run the example notebook using jupyter lab.
+
 Quick install and some tips at Linux:
+
 a) download miniconda installer:
 
 wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
